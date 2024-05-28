@@ -3,3 +3,4 @@ langchain
 langchain_community
 bs4
 chromadb
+streamlit
