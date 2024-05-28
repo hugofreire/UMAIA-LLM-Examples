@@ -46,7 +46,7 @@ data = loader.load()
 
 ```
 
- 5. Divide o texto carregado em partes menores
+## 5. Divide o texto carregado em partes menores
 ```python
 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
