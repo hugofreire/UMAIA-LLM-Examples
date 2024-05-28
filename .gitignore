@@ -1,1 +1,2 @@
-echo ".venv" >> .gitignore
+## remove .myenv
+.myvenv
