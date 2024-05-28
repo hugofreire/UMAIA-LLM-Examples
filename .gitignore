@@ -1,3 +1,4 @@
 ## remove .myenv
 myenv
 .DS_Store
+__pycache__
